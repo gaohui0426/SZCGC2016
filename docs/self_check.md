@@ -17,8 +17,21 @@
   - 问题:
 - 自行学习安装 Ruby, Rails, Git
   - 要求: 安装好 [Vagrant](https://gorails.com/guides/using-vagrant-for-rails-development), [Ruby on Rails](https://gorails.com/setup/ubuntu/14.04)。 (5/5)
-  - 完成情况:100%
-  - 问题:
+  - 完成情况: 100%
+  - 问题: 无
+- 阅读 “提问的智慧” 和 “如何更好的使用 Google”
+  - 要求: 完成阅读，理解互助式学习和自学的方法。(4/5)
+  - 完成情况: 100%
+  - 问题:  无
+- 学习 Markdown 语法，同时搭建一个静态博客
+  - 要求: 必须安装 Atom，这是代码编辑器（5/5）。静态博客可选（3/5）
+  - 完成情况:  100%
+  - 问题: 无
+- 自行学习安装 Ruby, Rails, Git
+  - 要求: 安装好 [Vagrant](https://gorails.com/guides/using-vagrant-for-rails-development), [Ruby on Rails](https://gorails.com/setup/ubuntu/14.04)。 (5/5)
+  - 完成情况: 100%
+  - 问题:  无
+
 
 
 #### 第一周的学习完成情况
